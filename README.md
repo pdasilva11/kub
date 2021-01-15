@@ -4,3 +4,4 @@ This container image can be deployed on a Kubernetes cluster. When accessed via 
 - a default **Hello world!** message
 - the pod name
 - node os information
+test
