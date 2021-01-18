@@ -2,7 +2,7 @@
   "name": "hello-kubernetes",
   "version": "1.8.0",
   "description": "Hello Kubernetes!",
-  "author": "Paul Bouwer",
+  "author": "PL",
   "license": "MIT",
   "main": "server.js",
   "scripts": {
